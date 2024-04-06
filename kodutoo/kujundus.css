@@ -14,7 +14,6 @@
     .keskel{text-align: center;}
 
     #esimene p, #teine p, #kolmas p, #neljas p, #viies p, #kuues p {
-        background-color: green;
         padding-right: 3%;
         padding-left: 3%;
     }
